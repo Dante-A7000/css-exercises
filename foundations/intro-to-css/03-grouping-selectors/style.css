@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.chungus,
+.chungus-deluxe {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+.chungus {
+    background-color: black;
+    color: white;
+}
+.chungus-deluxe {
+    background-color: #7fff00;
+    color: black;
+}
